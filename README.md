@@ -1,2 +1,4 @@
-# Cloud-computing-foundations
-Notas del curso cloud computing foundations
+# Builiding-cloud-computing-solutions-at-scale
+
+Notas del curso Builiding cloud computing solutions at scale.
+
